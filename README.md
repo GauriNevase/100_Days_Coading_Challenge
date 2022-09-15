@@ -1,1 +1,1 @@
-# 100_Days_Coading_Challenge
+# 100_Days_Coding_Challenge
